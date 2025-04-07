@@ -24,8 +24,8 @@ For more detailed insights into these components, please refer to the documentat
 
 ---
 ## Image Collection
-![Home Page](README_IMG/home.png)
-![Project Tile](README_IMG/Project Tile.png)
+![Home Page](README_IMG/Home.png)
+![Project Tile](README_IMG/ProjectTile.png)
 ![Navigation Bar](README_IMG/NavigationBar.png)
 
 More images can be found in the `README_IMG` folder.
